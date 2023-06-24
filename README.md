@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- **Sharoof-Khan/Sharoof-Khan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+<!-- **Abhibhoir222/Abhibhoir222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 ## Hi! There  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Abhishek 'Tgcs' Bhoir.
 
 <a href="https://linkedin.com/in/abhishek-bhoir-0a242212b">
@@ -61,10 +61,10 @@ I have done a Master's from Germany in Software Engineering for Industrial Appli
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/Abhibhoir222/"><img alt="'s Github Stats" src="https://github-readme-stats.vercel.app/api?username=sharoof-khan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/sharoof-khan/"><img alt="Sharoof's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharoof-khan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharoof-khan)](https://github.com/sharoof-khan/github-readme-stats) -->
-  <!-- <a href = "https://github-readme-stats.vercel.app/api/top-langs/?username=sharoof-khan"(https://github.com/sharoof-khan/github-readme-stats) -->
+    <a href="https://github.com/Abhibhoir222/"><img alt="'s Github Stats" src="https://github-readme-stats.vercel.app/api?username=Abhibhoir222&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Abhibhoir222/"><img alt="Sharoof's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhibhoir222&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhibhoir222)](https://github.com/Abhibhoir222/github-readme-stats) -->
+  <!-- <a href = "https://github-readme-stats.vercel.app/api/top-langs/?username=Abhibhoir222"(https://github.com/Abhibhoir222/github-readme-stats) -->
 
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
