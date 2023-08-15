@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <!-- **Abhibhoir222/Abhibhoir222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 ## Hi! There  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Abhishek 'Tgcs' Bhoir.
 
-<a href="https://linkedin.com/in/abhishek-bhoir-0a242212b">
+<a href="https://www.linkedin.com/in/abhishek-bhoir-0a242212b/">
   <img align="left" alt="Abhishek Bhoir LinkedIn" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <!-- <a href="https://twitter.com/Sharoof_Khan73">
