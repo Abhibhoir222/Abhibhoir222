@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- **Abhibhoir222/Abhibhoir222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-## Hi! There  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Abhishek 'Tgcs' Bhoir.
+## Hi! There  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Abhishek 'TgCs' Bhoir.
 
 <a href="https://www.linkedin.com/in/abhishek-bhoir-0a242212b/">
   <img align="left" alt="Abhishek Bhoir LinkedIn" width="40px" src="https://img.icons8.com/color/48/linkedin.png" />
@@ -37,7 +37,7 @@ I have done a Master's from Germany in Software Engineering for Industrial Appli
 - 👯 I’m looking to collaborate on some cool and awesome ideas.
 - 💬 Ask me about Javascript/ReactJs 
 -  📫 How to reach me **abhi.bhoir222@gmail.com**
-- ⚡ Know More: <a href="https://abhibhoir222.github.io/webResume/" target = "_blank">Abhishek's Portfolio</a> 
+- ⚡ Know More: <a href="https://porthfolioabhishekbhoir.vercel.app/" target = "_blank">Abhishek's Portfolio</a> 
 
 ## 🚀 Languages and Tools:
 
