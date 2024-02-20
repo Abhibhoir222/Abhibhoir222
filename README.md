@@ -35,10 +35,10 @@ Don Bosco School, Nerul, Navi Mumabi https://www.donbosconerul.edu.in/
 I have done a Master's from Germany in Software Engineering for Industrial Applications. I like problem-solving and coding. Always strive to bring 100% to the work I do. I have done some projects using technologies like ReactJS, ExpressJS, MongoDB, Redux, HTML5, CSS, Mongoose NodeJS, etc. I am passionate about developing complex applications that solve real-world problems impacting millions of users.
 
 
-- 🌱 I'm currently learning DSA.
+- 🌱 I'm currently learning RUST.
 - 🔭 Proficient in Fullstack Developer.
 - 👯 I’m looking to collaborate on some cool and awesome ideas.
-- 💬 Ask me about Javascript/ReactJs 
+- 💬 Ask me about Javascript/ExpressJs 
 -  📫 How to reach me **abhi.bhoir222@gmail.com**
 - ⚡ Know More: <a href="https://porthfolioabhishekbhoir.vercel.app/" target = "_blank">Abhishek's Portfolio</a> 
 
